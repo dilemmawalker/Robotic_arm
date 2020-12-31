@@ -2,5 +2,6 @@
  <body>
  <h >Robotic arm image</h><br>
         <img src="Robotic.jpg" width="700px" height="500px" alt="" />
-        <h></h>
+        <h>Servo Model Conneted pic .</h>
+        <img src="servo.jpg" width="700px" height="500px" alt="" />
         </body>
