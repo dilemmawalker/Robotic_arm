@@ -1,4 +1,4 @@
 Pic of the original Robotic Arm.
  <body>
-        <img src="Robotic.jpg" width="300px" alt="" />
+        <img src="Robotic.jpg" width="300px" alt="" align="center"/>
         </body>
